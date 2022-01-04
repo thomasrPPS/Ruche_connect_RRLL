@@ -23,8 +23,6 @@ This system allows an online visualization in 'real time' (a weave sent every 10
 on different platforms (for the moment Ubidots Stems _https://ubidots.com/stem/_ and in the future on Beep _https://beep.nl_) 
 with Microsoft's Azur service as an intermediary
 
-![Image text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Jz3S00sy-Sz40tN46OzoCAHaDt%26pid%3DApi&f=1)
-
 ## Installation
 
 No installation required, 
