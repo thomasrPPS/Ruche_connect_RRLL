@@ -2,10 +2,10 @@
 Project of embedded systems with sigfox module to scan different parameters like weight, temperature etc.
 
 ### Table of content
-1. [Starting Point](#start)
+1. [Starting Point](#starting-point)
 2. [Prerequisites](#Prerequisites)
-3. [Installation & update of the program](#installation)
-4. [Made with](#collaboration)
+3. [Installation & update](#installation-&-update)
+4. [Made with](#made with)
 5. [Versions](#versions)
 6. [Authors](#authors)
 7. [License](#license)
@@ -22,7 +22,7 @@ an LPWAN transmitter from sigfox which allows a wireless transmission at low ene
 This system allows an online visualization in 'real time' (a weave sent every 10min)
 on different platforms (for the moment Ubidots Stems _https://ubidots.com/stem/_ and in the future on Beep _https://beep.nl_)
 
-## Installation & update of the program
+## Installation & update
 
 No installation required, 
 to load a new code on the arduino board, you have to unscrew the box, connect the board to the software 
