@@ -1,7 +1,7 @@
 # Ruche_connect_RRLL
 Project of embedded systems with sigfox module to scan different parameters like weight, temperature etc.
 
-## Table of content
+### Table of content
 1. [Starting Point](#start)
 2. [Prerequisites](#Prerequisites)
 3. [Installation & update of the program](#installation)
@@ -17,12 +17,12 @@ an LPWAN transmitter from sigfox which allows a wireless transmission at low ene
 
 ![Image text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.sGXy-NlOStrLy6MeyubsAAHaEK%26pid%3DApi&f=1)
 
-### Prerequisites
+## Prerequisites
 
 This system allows an online visualization in 'real time' (a weave sent every 10min)
 on different platforms (for the moment Ubidots Stems _https://ubidots.com/stem/_ and in the future on Beep _https://beep.nl_)
 
-### Installation & update of the program
+## Installation & update of the program
 
 No installation required, 
 to load a new code on the arduino board, you have to unscrew the box, connect the board to the software 
@@ -41,7 +41,7 @@ List : ❌
 
 * **Thomas Rio** _alias_ [@thomasrPPS](https://github.com/thomasrPPS)
 * **Bruce Rosier** _alias_ [@brosier01](https://github.com/brosier01)
-* **Youssef Lakhdhar** _alias_ [@]()
+* **Youssef Lakhdhar** _alias_ [@](https://github.com/Youscoutt)
 * **Franck Laurent** _alias_ [@Franck-upmc](https://github.com/Franck-upmc)
 
 ## License
