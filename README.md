@@ -41,7 +41,7 @@ List : ❌
 
 * **Thomas Rio** _alias_ [@thomasrPPS](https://github.com/thomasrPPS)
 * **Bruce Rosier** _alias_ [@brosier01](https://github.com/brosier01)
-* **Youssef Lakhdhar** _alias_ [@](https://github.com/Youscoutt)
+* **Youssef Lakhdhar** _alias_ [@Youscoutt](https://github.com/Youscoutt)
 * **Franck Laurent** _alias_ [@Franck-upmc](https://github.com/Franck-upmc)
 
 ## License
