@@ -26,7 +26,8 @@ with Microsoft's Azur service as an intermediary
 ## Installation
 
 No installation required, 
-to load a new code on the arduino board, you have to unscrew the box, connect the board to the software 
+to load a new code on the arduino board, you have to unscrew the box, connect the board to the software.
+To see the live activity you'll have to enter the password and show the dashboard.
 
 ## Made with
 
